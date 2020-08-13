@@ -49,7 +49,7 @@ Route::get("/posts", function () {
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-// some changes on routes
+//new changes on routes
 
 
 
